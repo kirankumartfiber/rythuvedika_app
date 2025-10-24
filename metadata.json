@@ -1,0 +1,5 @@
+{
+  "name": "Rythuvedika Complaint System",
+  "description": "An application for farmers to set their location, raise complaints, and for administrators to view and manage these complaints.",
+  "requestFramePermissions": []
+}
